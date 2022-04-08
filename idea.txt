@@ -1,0 +1,81 @@
+Frontend lib 
+    -Bootstrap
+
+Theming and Color/Branding
+
+    - Theme : Light
+
+        - Color Scheme : Blue
+
+
+
+
+- header
+
+    menu
+        - School Projects
+        - Practices and Code Callenges
+        - blogs ? redirect to other my blogging site
+        - My Contributions               
+        - Portfolio 
+
+    dark-mode
+    switch-lang
+
+
+- main
+    - home
+        - Section 0 - ( viewport 100 )
+            My pic, Call action , role, links just in one page
+             -> scroll to learn more 
+
+
+        - Section 1 - My Tech stacks 
+                - React
+                    - title
+                    - lOGO
+                    - description
+                    - year of experience
+                    - Projects
+                    - Live link
+                    - Used on 
+
+                --- More ---
+
+        - Section 2 -  Certificates
+                - title
+                - lOGO
+                - description
+                - Issued date
+
+
+
+
+
+footer - my smilling pic ( 100 viewport ) 
+
+        Contact me
+            - whatsapp
+            - telegram
+            - email
+            - Youtube
+            - Linkedin
+            - html form
+            - Twitter
+            - Linkedin        
+        
+        - Hire me 
+            - Get quotes
+            - Upwork
+            - Freelacer
+
+
+
+
+    
+ 
+
+
+
+
+
